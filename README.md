@@ -5,6 +5,8 @@
 
 # PLEASE REPORT ANY ISSUES OR BUGS
 
+# There is an beta version of the actually speaking to the bot but it could completely bug out and crash the program, use at your own risk, dont expect anything good.
+
 ### If you would like to change the name of the bot from "Holo" to something else, you can do so by modifying the ```RawUIName``` variable in the Holo.py file and change everything else related to Holo.
 
 ### If you don't want the bot to automatically translate messages to a specific language, you can delete the relevant code in the Holo.py file.
