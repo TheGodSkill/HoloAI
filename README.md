@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/TheGodSkill/HoloAI/blob/main/Example.png)
 
-#PLEASE REPORT ANY ISSUES OR BUGS
+# PLEASE REPORT ANY ISSUES OR BUGS
 
 ### If you would like to change the name of the bot from "Holo" to something else, you can do so by modifying the ```RawUIName``` variable in the Holo.py file and change everything else related to Holo.
 
